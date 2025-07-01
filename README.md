@@ -2,6 +2,9 @@
 
 This is a simple x86 bootloader written in Assembly, created as a portfolio project to demonstrate low-level systems programming skills. The bootloader displays a custom message inspired by the "Grey Jedi" philosophy when booted in a virtual machine or on real hardware.
 
+<img width="1512" alt="Captura de Tela 2025-06-30 às 23 36 40" src="https://github.com/user-attachments/assets/2dcbb887-63d0-4375-a348-8075942addea" />
+
+
 ## What does it do?
 - Sets the video mode to 80x25 text mode
 - Prints a stylized header and a list of "Grey Jedi" code lines to the screen
